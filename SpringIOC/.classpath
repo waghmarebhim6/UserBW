@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Ioc/spring-aop-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Ioc/spring-aspects-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Ioc/spring-beans-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Ioc/spring-context-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Ioc/spring-context-indexer-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Ioc/spring-context-support-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Ioc/spring-core-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Ioc/spring-expression-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Ioc/spring-instrument-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Ioc/spring-jcl-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
